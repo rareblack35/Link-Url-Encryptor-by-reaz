@@ -1,8 +1,7 @@
 # Link-Url-Encryptor
-Link Url Encryptor By Team X 1337 &amp; Shofikul Islam 
-<h1>Developed By: Shofikul Islam</h1>
+Link Url Encryptor By reaz &amp; Reaz Uddin 
+<h1>Developed By: Reaz Uddin</h1>
 If you copy this & Our tool please  credit me My Name.
 <br><br>
 <strong>Ui Ux Designer And Developer Android App</strong>
-<i>administer : Team x 1337</i> <br>
-Facebook: https://www.facebook.com/S80F9KU50
+<i>administer : Reaz Uddin</i> <br>
